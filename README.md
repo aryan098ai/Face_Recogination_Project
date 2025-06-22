@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Face Recognition Models: CNN, Siamese Network, and PCA with SVC
 
@@ -101,3 +102,25 @@ This project is licensed under the MIT License.
 =======
 # Face_Recogination_Project
 >>>>>>> 81d19c324b63e938abd59c7d650f895a8b000e9e
+=======
+# Face Recognition Project
+
+This project uses deep learning and OpenCV to detect and recognize faces in real-time from a webcam feed.
+
+## 📌 Features
+- Face detection using Haar cascades or DNN
+- Face recognition using pre-trained models
+- Real-time camera input with bounding box visualization
+- Option to store and label new faces
+
+## 🛠 Technologies Used
+- Python
+- OpenCV
+- NumPy
+- Face Recognition (dlib or deep face libs)
+
+## 🚀 How to Run
+1. Clone the repository:
+git clone https://github.com/UGMR20230013/PROJECT_2.git
+
+>>>>>>> 05f31260ae178e0acdcdaa50a96c6d12fde75fe8

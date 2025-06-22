@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Face Recognition Models: CNN, Siamese Network, and PCA with SVC
 
@@ -97,3 +98,6 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 This project is licensed under the MIT License.
 
+=======
+# Face_Recogination_Project
+>>>>>>> 81d19c324b63e938abd59c7d650f895a8b000e9e
